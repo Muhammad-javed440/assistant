@@ -1,0 +1,9 @@
+# uv init --package assistant
+# cd assistant
+# uv venv .venv
+# .venv\Scripts\activate
+# uv add openai-agents
+# uv add python-dotenv
+# uv add "fastapi[standard]" 
+# uvicorn src.assistant.main:app --reload
+# uv add fastapi[all] 
