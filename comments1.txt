@@ -4,6 +4,18 @@
 # .venv\Scripts\activate
 # uv add openai-agents
 # uv add python-dotenv
-# uv add "fastapi[standard]" 
+# uv add "fastapi[standard]"
+uv run assistant 
 # uvicorn src.assistant.main:app --reload
-# uv add fastapi[all] 
+# uv add fastapi[all]
+
+install poetry in powershell or CMD
+(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
+
+poerty --version
+portry init
+poetry add fastapi uvicorn
+
+in toml file add scripts file
+[tool.poetry.scripts]
+assistant = "src.assistant.main:app"

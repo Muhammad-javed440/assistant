@@ -11,10 +11,12 @@ dependencies = [
     "fastapi[standard]>=0.115.14",
     "openai-agents>=0.1.0",
     "python-dotenv>=1.1.1",
+    "uvicorn (>=0.35.0,<0.36.0)",
 ]
 
-[project.scripts]
-assistant = "assistant:main"
+
+[tool.poetry.scripts]
+assistant = "src.assistant.main:app"
 
 [build-system]
 requires = ["hatchling"]
