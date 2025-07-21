@@ -53,5 +53,5 @@ async def run_agent(request: Request):
 # Step 4: Run the app with correct port (for Railway/Render/Vercel)
 if __name__ == "__main__":
     import uvicorn
-    port = int(os.environ.get("PORT", 8000))  # Railway/Render will set PORT env
+    port = int(os.environ.get("PORT", 8080))  # Railway/Render will set PORT env
     uvicorn.run("main:app", host="0.0.0.0", port=port)

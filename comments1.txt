@@ -14,7 +14,7 @@ install poetry in powershell or CMD
 (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
 
 poerty --version
-portry init
+poetry init
 poetry add fastapi uvicorn
 
 in toml file add scripts file
