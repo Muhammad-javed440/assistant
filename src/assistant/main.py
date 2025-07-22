@@ -44,7 +44,7 @@ async def run_agent(request: Request):
     data = await request.json()
     user_input = data.get("message", "")
 
-    agent = Agent(name="HelperBot", instructions="Assist with tasks.", model=model)
+    agent = Agent(name="AI Assistant", instructions="You are a helpful assistant and help users with their queries in all fields.", model=model)
     result = await Runner.run(agent, user_input)
 
     return {"output": result.final_output}
