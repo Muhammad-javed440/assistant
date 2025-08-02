@@ -10,6 +10,13 @@
  uvicorn src.assistant.main:app --host 0.0.0.0 --port 8000
  uv add fastapi[all]
 
+ for scrapping
+ uv add crawl4ai
+ crawl4ai-setup
+ python scripts/basic_crawl.py
+ uv pip install qdrant-client
+
+
 install poetry in powershell or CMD
 (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
 

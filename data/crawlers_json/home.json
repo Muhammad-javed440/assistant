@@ -1,0 +1,28 @@
+{
+  "url": "https://ai.panaversity.org",
+  "success": true,
+  "status_code": 200,
+  "depth": 1,
+  "title": null,
+  "cleaned_html": "<html>\n<head><title>PanaAI</title></head>\n<body><div><div>\n<!--$--><div>\n<nav><div><div>\n<div>\n<a href=\"/\"><img alt=\"PanaAI\" width=\"1000\" height=\"700\" src=\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPanaAI.d0caf6dd.webp&amp;w=2048&amp;q=75\"></a><span>Personalized Education</span>\n</div>\n<div><span>Platform: In Development</span></div>\n</div></div></nav><div>\n<div>\n<div><span>Educational Platform Under Development</span></div>\n<h1>AI-Powered Personalized Learning</h1>\n<p>Building an intelligent education platform that adapts to every learner's unique journey. Our AI agents create personalized learning paths, provide real-time assistance, and optimize educational outcomes for students and educators.</p>\n<div>\n<div>\n<span>Focus:</span> Personalized Learning</div>\n<div>\n<span>Technology:</span> AI Agents</div>\n<div>\n<span>Framework:</span> DACA</div>\n</div>\n</div>\n<div>\n<h2>Development Progress</h2>\n<div>\n<div>\n<div><div>\n<h3>AI Learning Engine</h3>\n<p>Adaptive algorithms, content recommendation, progress tracking</p>\n</div></div>\n<div><span>85%</span></div>\n</div>\n<div>\n<div><div>\n<h3>Content Management</h3>\n<p>Course creation, assessment tools, learning materials</p>\n</div></div>\n<div><span>70%</span></div>\n</div>\n<div>\n<div><div>\n<h3>Learning Dashboard</h3>\n<p>Student portal, educator tools, analytics interface</p>\n</div></div>\n<div><span>55%</span></div>\n</div>\n</div>\n</div>\n<div>\n<div>\n<h3>Adaptive Learning</h3>\n<p>AI adjusts content difficulty and pace based on individual progress</p>\n</div>\n<div>\n<h3>Smart Tutoring</h3>\n<p>AI tutors provide personalized explanations and guidance</p>\n</div>\n<div>\n<h3>Learning Analytics</h3>\n<p>Deep insights into learning patterns and performance metrics</p>\n</div>\n<div>\n<h3>Progress Optimization</h3>\n<p>Continuous improvement of learning outcomes through AI feedback</p>\n</div>\n</div>\n</div>\n<footer><div><div>\n<p>© 2025 Panaversity. Revolutionizing Education with AI.</p>\n<div>\n<span>Powered by DACA Architecture</span><span>•</span><span>Built for Educators and Students</span>\n</div>\n</div></div></footer>\n</div>\n<!--/$-->\n</div></div></body>\n</html>",
+  "markdown": "[![PanaAI](https://ai.panaversity.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPanaAI.d0caf6dd.webp&w=2048&q=75)](https://ai.panaversity.org/)Personalized Education\nPlatform: In Development\nEducational Platform Under Development\n# AI-Powered Personalized Learning\nBuilding an intelligent education platform that adapts to every learner's unique journey. Our AI agents create personalized learning paths, provide real-time assistance, and optimize educational outcomes for students and educators.\nFocus: Personalized Learning\nTechnology: AI Agents\nFramework: DACA\n## Development Progress\n### AI Learning Engine\nAdaptive algorithms, content recommendation, progress tracking\n85%\n### Content Management\nCourse creation, assessment tools, learning materials\n70%\n### Learning Dashboard\nStudent portal, educator tools, analytics interface\n55%\n### Adaptive Learning\nAI adjusts content difficulty and pace based on individual progress\n### Smart Tutoring\nAI tutors provide personalized explanations and guidance\n### Learning Analytics\nDeep insights into learning patterns and performance metrics\n### Progress Optimization\nContinuous improvement of learning outcomes through AI feedback\n© 2025 Panaversity. Revolutionizing Education with AI.\nPowered by DACA Architecture•Built for Educators and Students\n",
+  "chunks": null,
+  "metadata": {
+    "title": "PanaAI",
+    "description": "PanaAI is revolutionizing AI education with cutting-edge\n                programs in Agentic AI and cloud computing, preparing you for the\n                $100 trillion AI industry. Our hands-on programs combine advanced\n                technology with essential skills and personalized coaching.\n                Transform your ambition into success and lead in the AI-driven\n                future.",
+    "keywords": null,
+    "author": null,
+    "og:title": "PanaAI",
+    "og:description": "Learn Agentic AI with AI-powered PanaAI.",
+    "og:site_name": "PanaAI: AI-Powered Online University",
+    "og:image": "https://ai.panaversity.org/undefined/logos/PanaAI.webp",
+    "og:image:alt": "PanaAI Logo",
+    "twitter:card": "summary",
+    "twitter:site": "PanaAI: AI-Powered Online University",
+    "twitter:title": "PanaAI",
+    "twitter:description": "Learn Agentic AI with AI-powered PanaAI.",
+    "twitter:image": "https://ai.panaversity.org/undefined/logos/PanaAI.webp",
+    "depth": 1,
+    "parent_url": "https://panaversity.org/"
+  }
+}
