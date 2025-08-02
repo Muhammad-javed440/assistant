@@ -4,14 +4,7 @@ from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from agents import Agent, Runner, OpenAIChatCompletionsModel
 from dotenv import load_dotenv, find_dotenv
-from qdrant_client import QdrantClient 
 
-qdrant_client = QdrantClient(
-    url="https://4351414f-5684-4dea-b023-f88a5b61b93f.us-east4-0.gcp.cloud.qdrant.io:6333", 
-    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.GRpaIddEvjeH-WUUwXXm0rdyhpwiuhkJFGZi1Zd6zZM",
-)
-
-print(qdrant_client.get_collections())
 
 
 # Load environment variables
